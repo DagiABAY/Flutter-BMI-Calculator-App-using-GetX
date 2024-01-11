@@ -26,14 +26,13 @@ Implementation Timeline:
 Day 1:
 Set up a new Flutter project.
 Integrate GetX into the project.
-Create the Home screen with basic UI.
 Implement navigation to the BMI Calculator screen.
 Design the BMI Calculator screen with input fields and result display.
 Implement BMI calculation logic using GetX controllers.
-Add smooth transitions and animations.
-Note: This project is intentionally designed as a one-day project to focus on the core principles of GetX and keep the scope manageable. It serves as a quick demonstration of how GetX can simplify state management and navigation in a Flutter application.
 
-Feel free to customize the features and design according to your preferences. This project aims to provide a starting point for understanding the integration of GetX into a Flutter app within a short timeframe.
+# Note: 
+This project is intentionally designed as a one-day project. It serves as a quick demonstration of how GetX can simplify state management and navigation in a Flutter application.
+This project aims to provide a starting point for understanding the integration of GetX into a Flutter app within a short timeframe.
 
 # DEMO 
 https://github.com/DagiABAY/Flutter-BMI-Calculator-App-using-GetX/assets/125886766/d2988949-349c-49f1-87fb-e07f8bdf8944
